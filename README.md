@@ -40,32 +40,32 @@ Anyway I'll specify all the steps and commands needed to play any of the maps in
 
 ### Quake Brutalist Jam
 1. Copy `QBJ_mrtaufner` on the same folder containing the `id1` folder and the source port .exe.
-2. Start the game and type `game qbj_mrtaufner`. The Copper mod should be now loaded
+2. Start the game, open the console and type `game qbj_mrtaufner`. The Copper mod should be now loaded
 3. Type `map qbj_mrtaufner`
 
 ### Speedmapping 214 - Prototypes 2
 1. Copy `SM214_mrtaufner` on the same folder containing the `id1` folder and the source port .exe.
-2. Start the game and type `game sm214_mrtaufner`. The SMP mod should be now loaded
+2. Start the game, open the console and type `game sm214_mrtaufner`. The SMP mod should be now loaded
 3. Type `map sm214_mrtaufner`
 
 ### Speedmapping 220 - Prototypes 3
 1. Copy `sm220_mrtaufner` on the same folder containing the `id1` folder and the source port .exe.
-2. Start the game and type `game sm220_mrtaufner`. The SMP mod should be now loaded
+2. Start the game, open the console and type `game sm220_mrtaufner`. The Copper mod should be now loaded
 3. Type `map sm220_mrtaufner`
 
 ### Speedmapping 221 - Bridges
 1. Copy `sm221_mrtaufner` on the same folder containing the `id1` folder and the source port .exe.
-2. Start the game and type `game sm221_mrtaufner`. The SMP mod should be now loaded
+2. Start the game, open the console and type `game sm221_mrtaufner`. The Copper mod should be now loaded
 3. Type `map sm221_mrtaufner`
 
 ### Speedmapping 224 - Protypes 4
 1. Copy `sm224_mrtaufner` on the same folder containing the `id1` folder and the source port .exe.
-2. Start the game and type `game sm224_mrtaufner`. The SMP mod should be now loaded
+2. Start the game, open the console and type `game sm224_mrtaufner`. The Copper mod should be now loaded
 3. Type `map sm224_mrtaufner`
 
 ### Xmas Jam 21
 1. Download [Arcane Dimensions](https://www.moddb.com/mods/arcane-dimensions/downloads/arcane-dimensions-180-with-patch-1)
 2. Unzip the mod in a folder named `ad` (can be named whatever) at the same level as the `id1` folder and the source port .exe.
 3. Copy the contents from `XmasJam21_mrtfradyang` (`gfx`, `maps` and `particles`. `mapsrc` and the .txt file is optional) to the `ad` folder
-4. Start the game and type `game ad`
+4. Start the game, open the console and type `game ad`. Arcane Dimensions should now be loaded.
 5. Type `map xmj21_mrtfradyang`
