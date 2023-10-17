@@ -16,12 +16,12 @@ I personally recommend [Ironwail](https://github.com/andrei-drexler/ironwail/tag
 - [RetroQuad](https://www.patreon.com/mankrip) (you're a real one if you know this)
 - [JoeQuake](http://joequake.runecentral.com/downloads.html)
 - [FTE](https://fte.triptohell.info)
-- [The Quake Re-Release](https://store.steampowered.com/app/2310/Quake/)
+- [The Quake Re-Release](https://store.steampowered.com/app/2310/Quake/), but some maps won't work.
 
 Each of these has its own pros and cons but all of them will get the job done. However, I only know the commands for Ironwail and QuakeSpasm.
 
 ## How to play
-Considering you have an original Quake copy, be it a cd release or the digital version, then just copy your id1 folder to the same folder
+Considering you have an original Quake copy, be it a CD copy or the digital version, then just copy your id1 folder to the same folder
 where your source port .exe is. You can also do it the other way around: copy the contents from the source port .zip and paste it over your 
 Quake 1 installation.
 
