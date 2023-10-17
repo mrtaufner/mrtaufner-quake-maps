@@ -7,7 +7,7 @@ Mod credits:
 - Arcane Dimensions: Simon O' Callaghan et al
 
 ## Choose your fight... erm... source port)
-As mentioned above, these maps are ready to play but most of them will require a modern source port to play and the original game files as a base.
+As mentioned above, most of these maps are ready to play but any non-vanilla map will require a modern source port to play and the original game files as a base.
 I personally recommend [Ironwail](https://github.com/andrei-drexler/ironwail/tags), but any of the following will do just fine:
 
 - [QuakeSpasm](https://sourceforge.net/projects/quakespasm/)
@@ -16,6 +16,7 @@ I personally recommend [Ironwail](https://github.com/andrei-drexler/ironwail/tag
 - [RetroQuad](https://www.patreon.com/mankrip) (you're a real one if you know this)
 - [JoeQuake](http://joequake.runecentral.com/downloads.html)
 - [FTE](https://fte.triptohell.info)
+- [The Quake Re-Release](https://store.steampowered.com/app/2310/Quake/)
 
 Each of these has its own pros and cons but all of them will get the job done. However, I only know the commands for Ironwail and QuakeSpasm.
 
