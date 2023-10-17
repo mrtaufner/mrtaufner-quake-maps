@@ -2,9 +2,9 @@
 My maps, prepackaged and ready to play (except for [AD](https://www.moddb.com/mods/arcane-dimensions/downloads/arcane-dimensions-180-with-patch-1), because it is too large).
 
 Mod credits:
-SMP (speed mapping progs): David "dumptruck_ds" Spell et al
-Copper: Matthew 'Lunaran' Breit
-Arcane Dimensions: Simon O' Callaghan et al
+- SMP (speed mapping progs): David "dumptruck_ds" Spell et al
+- Copper: Matthew 'Lunaran' Breit
+- Arcane Dimensions: Simon O' Callaghan et al
 
 ## Choose your fight... erm... source port)
 As mentioned above, these maps are ready to play but most of them will require a modern source port to play and the original game files as a base.
