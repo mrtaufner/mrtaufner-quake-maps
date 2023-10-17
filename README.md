@@ -30,7 +30,7 @@ Now you're ready to run the game, and open the console (QuakeSpasm does this by 
 1. type `game xxxxx` then press enter and you'll load specified mod. Some source ports have a directory navigator so maybe you won't need to do this step.
 2. type `map xxxxx` then press enter and you'll load the specified map. Note that you can play vanilla maps with mods doing this too.
 
-Anyway I'll specify all the steps and commands needed to play any of the maps included here. Tab can be used for autocomplete
+Anyway I'll specify all the steps and commands needed to play any of the maps included here. When in-game, Tab can be used for autocomplete
 
 ### Coffee Quake 2 (id1)
 1. Copy the files in the `maps` folder from `CQ2_mrtaufner`
