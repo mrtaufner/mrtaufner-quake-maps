@@ -11,7 +11,7 @@ As mentioned above, these maps are ready to play but most of them will require a
 I personally recommend [Ironwail](https://github.com/andrei-drexler/ironwail/tags), but any of the following will do just fine:
 
 - [QuakeSpasm](https://sourceforge.net/projects/quakespasm/)
-- [QuakeSpasm Spiked](https://triptohell.info/moodles/qss/)8
+- [QuakeSpasm Spiked](https://triptohell.info/moodles/qss/)
 - [vkQuake](https://github.com/Novum/vkQuake/tags)
 - [RetroQuad](https://www.patreon.com/mankrip) (you're a real one if you know this)
 - [JoeQuake](http://joequake.runecentral.com/downloads.html)
