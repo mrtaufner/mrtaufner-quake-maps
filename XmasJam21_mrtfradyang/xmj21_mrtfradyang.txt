@@ -1,0 +1,53 @@
+===========================================================================
+Title                   : When There Were Wolves
+Filename                : xmj21_mrtfradyang.bsp
+Release date            : December 2021
+Author                  : mrtaufner (blockout, gameplay) + radiatoryang (art pass, polish)
+Website                 : https://debacle.us
+
+Description             : a snowy 1024^3 collaboration for Xmas Jam 2021, requires Arcane Dimensions v1.8+
+
+Additional Credits to   : thanks to Quake Mapping discord and all our beta testers!
+===========================================================================
+* What is included *
+
+New levels              : Yes
+Sounds                  : No
+Music                   : No (track 05)
+Graphics                : Yes (custom textures by Makkon, custom sky "Eagle's Dare" by Kothic but rotated 180 degrees and recolored)
+Other files required    : Arcane Dimensions v1.8+, Quakespasm Spiked for snow effects (optional)
+
+
+* Play Information *
+
+Single Player           : Designed for
+Cooperative 2-4 Player  : Yes, in theory (4 spawns)
+Deathmatch 2-16 Player  : No
+Difficulty Settings     : Easy, Normal, Hard
+Secrets					: 4
+
+
+* Construction *
+
+Base                    : From scratch (blockout by mrtaufner)
+Build Time              : 1 month
+Editor(s) used          : Trenchbroom 2021
+Tested With             : Quakespasm Spiked + Arcane Dimensions v1.8+
+
+
+* Copyright / Permissions *
+
+Authors MAY use the contents of this file as a base for
+modification or reuse.  Permissions have been obtained from original 
+authors for any of their resources modified or included in this file.
+
+You MAY distribute this file, provided you include this text file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.  I have received permission from the original authors of any
+modified or included content in this file to allow further distribution.
+
+
+* Where to get the file that this text file describes *
+
+Download from: google "Quake xmas jam 2021"
